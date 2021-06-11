@@ -1,0 +1,3 @@
+CNN and Pytorch implementation for Fase Mask Detection.
+Classes: Humans with mask, humans without mask and other non human things.
+Project is further expanded to check the bias with respect to gender and race.
